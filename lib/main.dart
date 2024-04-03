@@ -1,6 +1,5 @@
 import 'package:dial_box_updated/view/screens/auth_screens/login_screen/Login%20Provider/login_provider.dart';
 import 'package:dial_box_updated/view/screens/auth_screens/signup_detail_screen/SignUp%20Provider/sign_up_provider.dart';
-import 'package:dial_box_updated/view/screens/splash_screen/splash_screen.dart';
 import 'package:dial_box_updated/view/screens/workthrough_screen/workthrough_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
